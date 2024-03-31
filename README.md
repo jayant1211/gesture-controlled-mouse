@@ -3,7 +3,7 @@
 This project allows you to control your mouse cursor using hand gestures captured through your webcam. Leveraging MediaPipe library, it detects your hand movements and translates them into mouse actions using pyautogui. <br>
 <br>
 
-**Video Tutorial**
+[Video Tutorial](https://www.youtube.com/watch?v=EXY4pyCjLVg)
 
 ## Features
 <b>Real-time Hand Detection:</b> Uses the MediaPipe library for efficient and accurate hand detection in real-time video streams.<br>
@@ -14,7 +14,7 @@ This project allows you to control your mouse cursor using hand gestures capture
 ### Clone the repository:
 
 ```bash
-git clone https://github.com/your_username/HandGestureMouseControl.git
+git clone https://github.com/jayant1211/gesture-controlled-mouse.git
 ```
 
 ### Install the required Python packages:
