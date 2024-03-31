@@ -39,22 +39,22 @@ python main.py
 #### 1. Mouse Movement
 mouse can be moved using index fingers.
 
-![Alt text](https://github.com/jayant1211/GestureControlledMouse/blob/master/results/movement.gif)
+![Alt text](https://github.com/jayant1211/gesture-controlled-mouse/blob/main/result/movement.gif)
 
 #### 2. Left Click
 
 Left click can be triggered by touching index and thumb.
 
-![Alt text](https://github.com/jayant1211/GestureControlledMouse/blob/master/results/left.gif)
+![Alt text](https://github.com/jayant1211/gesture-controlled-mouse/blob/main/result/left_click.gif)
 
 #### 3. Right Click
 
 Right click can be triggered by touching thumb and middle finger.
 
-![Alt text](https://github.com/jayant1211/GestureControlledMouse/blob/master/results/right.gif)
+![Alt text](https://github.com/jayant1211/gesture-controlled-mouse/blob/main/result/right_click.gif)
 
 #### 4. Hold and Drag
 
 Can be triggered using Three fingers, Index, Middle and Ring.  
 
-![Alt text](https://github.com/jayant1211/GestureControlledMouse/blob/master/results/drag.gif)
+![Alt text](https://github.com/jayant1211/gesture-controlled-mouse/blob/main/result/hold_n_drag.gif)
